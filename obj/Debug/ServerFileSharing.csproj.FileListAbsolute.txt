@@ -1,0 +1,34 @@
+C:\Users\ender\Desktop\html Çalışmalarım\ASP.NET MVC 4 Site\UYGULAMA İNDİRME SİMÜLASYONU\ServerFileSharing\bin\Debug\ServerFileSharing.exe
+C:\Users\ender\Desktop\html Çalışmalarım\ASP.NET MVC 4 Site\UYGULAMA İNDİRME SİMÜLASYONU\ServerFileSharing\bin\Debug\ServerFileSharing.pdb
+C:\Users\ender\Desktop\html Çalışmalarım\ASP.NET MVC 4 Site\UYGULAMA İNDİRME SİMÜLASYONU\ServerFileSharing\obj\Debug\ServerFileSharing.csprojResolveAssemblyReference.cache
+C:\Users\ender\Desktop\html Çalışmalarım\ASP.NET MVC 4 Site\UYGULAMA İNDİRME SİMÜLASYONU\ServerFileSharing\obj\Debug\ServerFileSharing.Form1.resources
+C:\Users\ender\Desktop\html Çalışmalarım\ASP.NET MVC 4 Site\UYGULAMA İNDİRME SİMÜLASYONU\ServerFileSharing\obj\Debug\ServerFileSharing.Properties.Resources.resources
+C:\Users\ender\Desktop\html Çalışmalarım\ASP.NET MVC 4 Site\UYGULAMA İNDİRME SİMÜLASYONU\ServerFileSharing\obj\Debug\ServerFileSharing.csproj.GenerateResource.Cache
+C:\Users\ender\Desktop\html Çalışmalarım\ASP.NET MVC 4 Site\UYGULAMA İNDİRME SİMÜLASYONU\ServerFileSharing\obj\Debug\ServerFileSharing.exe
+C:\Users\ender\Desktop\html Çalışmalarım\ASP.NET MVC 4 Site\UYGULAMA İNDİRME SİMÜLASYONU\ServerFileSharing\obj\Debug\ServerFileSharing.pdb
+C:\Users\ender\Documents\Visual Studio 2013\Projects\ServerFileSharing\obj\Debug\ServerFileSharing.exe
+C:\Users\ender\Documents\Visual Studio 2013\Projects\ServerFileSharing\obj\Debug\ServerFileSharing.pdb
+C:\Users\ender\Documents\Visual Studio 2013\Projects\ServerFileSharing\bin\Debug\ServerFileSharing.exe
+C:\Users\ender\Documents\Visual Studio 2013\Projects\ServerFileSharing\bin\Debug\ServerFileSharing.pdb
+C:\Users\ender\Documents\Visual Studio 2013\Projects\ServerFileSharing\obj\Debug\ServerFileSharing.csprojResolveAssemblyReference.cache
+C:\Users\ender\Documents\Visual Studio 2013\Projects\ServerFileSharing\obj\Debug\ServerFileSharing.Form1.resources
+C:\Users\ender\Documents\Visual Studio 2013\Projects\ServerFileSharing\obj\Debug\ServerFileSharing.Properties.Resources.resources
+C:\Users\ender\Documents\Visual Studio 2013\Projects\ServerFileSharing\obj\Debug\ServerFileSharing.csproj.GenerateResource.Cache
+C:\DATA\C# Programing-Projects\ServerFileSharing\obj\Debug\ServerFileSharing.exe
+C:\DATA\C# Programing-Projects\ServerFileSharing\obj\Debug\ServerFileSharing.pdb
+C:\DATA\C# Programing-Projects\ServerFileSharing\bin\Debug\ServerFileSharing.exe
+C:\DATA\C# Programing-Projects\ServerFileSharing\bin\Debug\ServerFileSharing.pdb
+C:\DATA\C# Programing-Projects\ServerFileSharing\obj\Debug\ServerFileSharing.Form1.resources
+C:\DATA\C# Programing-Projects\ServerFileSharing\obj\Debug\ServerFileSharing.Properties.Resources.resources
+C:\DATA\C# Programing-Projects\ServerFileSharing\obj\Debug\ServerFileSharing.csproj.GenerateResource.Cache
+C:\DATA\School Works\C# Programing-Projects\ServerFileSharing\obj\Debug\ServerFileSharing.exe
+C:\DATA\School Works\C# Programing-Projects\ServerFileSharing\obj\Debug\ServerFileSharing.pdb
+C:\DATA\School Works\C# Programing-Projects\ServerFileSharing\bin\Debug\ServerFileSharing.exe
+C:\DATA\School Works\C# Programing-Projects\ServerFileSharing\bin\Debug\ServerFileSharing.pdb
+C:\DATA\School Works\C# Programing-Projects\ServerFileSharing\bin\Debug\tr-TR\ServerFileSharing.resources.dll
+C:\DATA\School Works\C# Programing-Projects\ServerFileSharing\obj\Debug\ServerFileSharing.csprojResolveAssemblyReference.cache
+C:\DATA\School Works\C# Programing-Projects\ServerFileSharing\obj\Debug\ServerFileSharing.Form1.resources
+C:\DATA\School Works\C# Programing-Projects\ServerFileSharing\obj\Debug\ServerFileSharing.Properties.Resources.resources
+C:\DATA\School Works\C# Programing-Projects\ServerFileSharing\obj\Debug\ServerFileSharing.Form1.tr-TR.resources
+C:\DATA\School Works\C# Programing-Projects\ServerFileSharing\obj\Debug\ServerFileSharing.csproj.GenerateResource.Cache
+C:\DATA\School Works\C# Programing-Projects\ServerFileSharing\obj\Debug\tr-TR\ServerFileSharing.resources.dll
